@@ -4,7 +4,7 @@ I recently graduated from **Le Wagon Tokyo's Web Development Coding Bootcamp** (
 
 📌 Check out my latest projects in the **pinned repositories** - these projects are completed and live, hosted on cloud hosting platforms like Heroku/Render:
 - **[Friends List](https://friends-list-orxx.onrender.com)** - allows users to easily manage their friends
-- **[Inverly](https://www.inverly.biz)** - enables users to forecast the future performance of ETFs based on historical data
+- **[Inverly](https://inverly-859ae028bfa9.herokuapp.com)** - enables users to forecast the future performance of ETFs based on historical data
 - **[PawPal](https://pawpal-bae480293655.herokuapp.com)** - pairs pet owners with trusted pet sitters for the care of their pets
 - **[Le Wagon vs Porsche 911 Race](https://wagon-race.onrender.com)** - allows users to race between Le Wagon and a Porsche 911 using the keyboard
 
