@@ -13,6 +13,8 @@ I recently graduated from **Le Wagon Tokyo's Web Development Coding Bootcamp** (
 - Email: user@example.com<br>
 - Password: password
 
+⚠️ Note: These apps are hosted using free eco dynos, which means they may take up to a minute to wake up after a period of inactivity. Please be patient when loading the app!<br><br>
+
 🔧 Tech Stack:
 - **Languages:** Ruby, HTML, CSS, JavaScript
 - **Frameworks & Tools:** Ruby on Rails, Bootstrap
